@@ -1,6 +1,9 @@
 Ý tưởng Phần mềm Quản lý Tài chính dành cho Sinh viên
+
 Mục tiêu chính của phần mềm: Giúp sinh viên quản lý tài chính cá nhân hiệu quả hơn, đặc biệt trong việc kiểm soát chi tiêu, tiết kiệm, và lập kế hoạch ngân sách. Phần mềm được thiết kế với giao diện đơn giản, thân thiện, phù hợp với đối tượng sinh viên - những người thường không có nhiều kinh nghiệm trong việc quản lý tài chính.
+
 Tính năng chính
+
 1.	Ghi chép thu chi tự động:
 o	Sinh viên có thể nhập các khoản thu nhập (học bổng, trợ cấp, lương làm thêm,...) và các khoản chi tiêu (ăn uống, học phí, mua sắm, giải trí,...).
 o	Hỗ trợ nhập liệu nhanh chóng, phân loại các khoản chi tiêu theo danh mục.
